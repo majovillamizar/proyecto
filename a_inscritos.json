@@ -1,0 +1,29 @@
+{
+    "1097495130": {
+        "nombre": "maria jose",
+        "apellido": "villamizar lopez",
+        "telefono": "3008607833",
+        "direccion": "calle 46 ",
+        "acudiente": "marta",
+        "estado": "Inscrito",
+        "horario": "lunes de 8 a 10"
+    },
+    "1099740009": {
+        "nombre": "camilo herandez",
+        "apellido": "hernanedz mora",
+        "telefono": "30089897832",
+        "direccion": "calle 34",
+        "acudiente": "pilar",
+        "estado": "Inscrito",
+        "horario": "jueves de 8 a 10"
+    },
+    "1099739701": {
+        "nombre": "juan",
+        "apellido": "sweet",
+        "telefono": "40923840938049",
+        "direccion": "calle 3",
+        "acudiente": "raquel",
+        "estado": "Inscrito",
+        "horario": "viernes de 2 a 6"
+    }
+}
